@@ -1,0 +1,5 @@
+{
+  "name": "IntelliTutor",
+  "description": "An AI-powered personalized learning assistant that creates tailored study plans, explains difficult concepts, and recommends learning resources based on your goals and subject.",
+  "requestFramePermissions": []
+}
